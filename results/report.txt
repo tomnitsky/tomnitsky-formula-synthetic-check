@@ -1,0 +1,4 @@
+Synthetic check of the curve. This is not data from a preregistered study with participants.
+Series: 80. Tested: 80. Too few steps: 0.
+The hyperbola is more accurate than both alternatives by at least 0.005 in 34 of 80.
+The margin is taken from the E1 draft: a gain smaller than 0.005 is recorded as no advantage.
